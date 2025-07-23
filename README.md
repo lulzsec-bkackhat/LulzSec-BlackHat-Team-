@@ -38,8 +38,8 @@
 
 ## 📡 Contato
 
-- Telegram: [@seunick](https://t.me/lulzsec_blackhat_team)
-- GitHub: [github.com/SEUNOME](https://github.com/lulzsec-blackhat)
+- Telegram: [@lulzsec_blackhat_team](https://t.me/lulzsec_blackhat_team)
+- GitHub: [github.com/lulzsec-bkackhat](https://github.com/lulzsec-blackhat)
 
 ---
 
